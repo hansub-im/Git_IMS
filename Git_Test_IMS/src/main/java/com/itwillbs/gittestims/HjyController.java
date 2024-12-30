@@ -2,8 +2,9 @@ package com.itwillbs.gittestims;
 
 import org.springframework.stereotype.Controller;
 
-// 주석
+// 허진용이 생성
 @Controller
 public class HjyController {
-
+	
 }
+ 
